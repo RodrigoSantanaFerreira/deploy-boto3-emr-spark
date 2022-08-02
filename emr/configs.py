@@ -1,0 +1,5 @@
+var_Ec2KeyName = 'rodrigo-emr-stack'
+var_script_extract = 's3://stack-app-project-1/app/extract_files.sh'
+var_role_service  = 'EMR_DefaultRole'
+var_instance_role = 'EMR_EC2_DefaultRole'
+var_subnet_id = 'subnet-0b8956b74ba993948'
