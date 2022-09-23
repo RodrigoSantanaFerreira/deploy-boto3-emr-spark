@@ -1,8 +1,8 @@
 # Deploy EMR using Python with Boto3 Library
 #### set the credentials for aws account
 
-export AWS_ACCESS_KEY_ID='AKIAZ4ONB4WVVIYCINO7'
-export AWS_SECRET_ACCESS_KEY='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'
+export AWS_ACCESS_KEY_ID='xxxxx'
+export AWS_SECRET_ACCESS_KEY='xxxxxxx'
 
 #### Setup the emr/configs with configuration for deploy
 vi emr/configs.py
